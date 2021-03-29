@@ -12,7 +12,7 @@ const [loggedInUser, setLoggedInUser] = useContext(UserContext);
     console.log(loggedInUser);
     const orderDetails = {products: savedCart, shipment: data, orderTime: new Date() }
 
-    fetch('http://localhost:5000/addOrder', {
+    fetch('https://young-basin-77903.herokuapp.com/addOrder', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

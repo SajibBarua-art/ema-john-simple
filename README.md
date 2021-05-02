@@ -5,5 +5,5 @@ Feature:
 3. A user can order product from cart
 4. A user can pay with the card
 
-Live site Link: https://ema-john-simple-copy.web.app/
-server site code Link: https://github.com/SajibBarua-art/ema-john-server
+1. Live site Link: https://ema-john-simple-copy.web.app/
+2. server site code Link: https://github.com/SajibBarua-art/ema-john-server
